@@ -6033,7 +6033,7 @@ msgstr "Compte de sortie pour la valorisation d'inventaire"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "Outstanding Transactions"
-msgstr "Transactions exceptionnelles"
+msgstr "Transactions en suspend"
 
 #. module: account
 #: code:addons/account/models/account_invoice.py:108
